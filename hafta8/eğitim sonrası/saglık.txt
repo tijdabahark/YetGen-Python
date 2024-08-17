@@ -1,0 +1,24 @@
+kullanici ad tij
+kullanıcının yaşi kilo ve boy bilgisi 18, 74.0, 147.0
+kullanıcını boy kilo endeksi 0.0
+değer aralığı zayıf
+oluşturma tarihi Sat Aug 17 13:02:27 2024
+********************
+kullanici ad ali
+kullanıcının yaşi kilo ve boy bilgisi 15, 74.0, 187.0
+kullanıcını boy kilo endeksi 0.0
+değer aralığı zayıf
+oluşturma tarihi Sat Aug 17 13:02:43 2024
+********************
+kullanici ad çay
+kullanıcının yaşi kilo ve boy bilgisi 18, 47.0, 198.0
+kullanıcını boy kilo endeksi 0.0
+değer aralığı zayıf
+oluşturma tarihi Sat Aug 17 13:02:50 2024
+********************
+kullanici ad cem
+kullanıcının yaşi kilo ve boy bilgisi 18, 87.0, 187.0
+kullanıcını boy kilo endeksi 0.0
+değer aralığı zayıf
+oluşturma tarihi Sat Aug 17 13:02:58 2024
+********************
